@@ -133,10 +133,12 @@ Publish the URL.
 ```
 
 ## Output:
-![OUTPUT](./out.png)
+![Screenshot (37)](https://user-images.githubusercontent.com/119394248/215309009-ca78fbdb-4946-45bc-bb1d-4b906748f937.png)
+
 
 ## HTML Validator
-![OUTPUT](./valid.png)
+![Screenshot (38)](https://user-images.githubusercontent.com/119394248/215309028-cfb9f0e7-b5f5-4f37-9be6-a6b3b06a4375.png)
+
 
 ## Result:
 The program for designing book cover page using HTML and CSS is completed successfully.
